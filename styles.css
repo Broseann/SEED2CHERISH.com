@@ -1,0 +1,62 @@
+@charset "utf-8";
+.text-center {
+    background-image: url(url), -webkit-linear-gradient(270deg,rgba(248,255,246,1.00) 0%,rgba(53,221,2,1.00) 100%);
+    background-image: url(url), -moz-linear-gradient(270deg,rgba(248,255,246,1.00) 0%,rgba(53,221,2,1.00) 100%);
+    background-image: url(url), -o-linear-gradient(270deg,rgba(248,255,246,1.00) 0%,rgba(53,221,2,1.00) 100%);
+    background-image: url(url), linear-gradient(180deg,rgba(248,255,246,1.00) 0%,rgba(53,221,2,1.00) 100%);
+}
+body p {
+
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+body p {
+}
+.container .container-fluid {
+
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .navbar-nav.mr-auto {
+}
+.container .container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(114,114,114,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(114,114,114,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(114,114,114,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(114,114,114,1.00) 100.00%);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #000000;
+    font-style: normal;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: bold;
+    border-color: #000000;
+    border-width: 53px;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #000000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.container-fluid .text-center strong {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.carousel-caption p strong {
+    background-color: #000000;
+}
+.carousel-caption h5 strong {
+    background-color: #000000;
+}
+.container-fluid .row .col-lg-6 {
+}
+.container-fluid .row .col-lg-6 {
+}
+.container-fluid .row .col-lg-6 {
+}
+.container-fluid .row .col-lg-6 {
+    text-align: justify;
+    font-size: large;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.container-fluid .row .col-lg-6 {
+}
+.col-lg-6 .card.col-md-4.col-lg-12 .card-img-top.img-fluid {
+    border: thick solid #5BE332;
+}
